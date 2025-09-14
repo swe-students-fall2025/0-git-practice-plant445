@@ -5,3 +5,6 @@
 I found this article extremely interesting as it showcases Andy Jassy's opinions on Generative AI becoming more prominent at Amazon, and highlights how the technology is already reshaping customer experiences, internal operations, and long-term innovation strategies. This perspective has strong implications for other big tech companies as well, as it suggests that those who adopt AI broadly and early will be better positioned to transform their business models, streamline operations, and stay ahead in an increasingly competitive market. 
 
 Additionally, this letter came out while I was interning at Amazon, and my team found it quite funny, as we had the lowest AI tools adoption rate in our org.
+
+## JunHao's comment
+I agree with your point that early adoption can provide a great advantage, and I think it also shows how important it is for engineers to adapt quickly to new tools. The adoption rates may vary across company, but AI will continuous increase the influence the daily work of software engineers, both automating routine tasks and shaping innovation.
